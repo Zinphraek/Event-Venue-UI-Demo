@@ -21,6 +21,10 @@ This is a demo version UI (User Interface) for [Le Prestige Hall, Inc](https://w
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+### Tests
+
+No tests have been implemented yet.
+
 
 ## UI Screenshots and Demo.
 
