@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    'sans-serif';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#hero {
+  background-image: url('https://www.1800flowers.com/magnificent-roses-preserved-roses-177555?adid=177555LRD&adtype=pla&r=performancepla&adcampaign=GSC_NE_18F_Roses_PMAX&adcampaignid=14884497118&adgroupid=&addisttype=x&creative=&placement=&targetid=&keyword=&gclid=EAIaIQobChMInIrp_Luq_QIVmY3ICh3hhAp8EAQYBCABEgLB4fD_BwE');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media(max-wid: 57px) {
+  #hero {
+    
+  }
+}

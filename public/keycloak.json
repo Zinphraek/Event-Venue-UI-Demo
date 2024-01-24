@@ -1,0 +1,9 @@
+
+  {
+    "realm": "LePrestigeHall",
+    "url": "http://localhost:8080",
+    "clientId": "le-prestige-hall-ui",
+    "ssl-required": "external",
+    "public-client": true,
+    "confidential-port": 0
+}

@@ -1,0 +1,15 @@
+module.exports = Object.freeze({
+	ABOUT_PAGE_URL: "/about",
+	ACCOUNT_PAGE_URL: "/account",
+	APPOINTMENTS_PAGE_URL: "/appointments",
+	BOOKING_PAGE_URL: "/booking",
+	CONTACT_PAGE_URL: "/contact",
+	EVENT_PAGE_URL: "/events",
+	HOME_PAGE_URL: "/",
+	INVOICES_PAGE_URL: "/invoices",
+	PROFILE_PAGE_URL: "/profile",
+	RESERVATIONS_PAGE_URL: "/reservations",
+	REVIEWS_PAGE_URL: "/reviews",
+	SERVICES_PAGE_URL: "/services",
+	SETTING_PAGE_URL: "/settings",
+});
