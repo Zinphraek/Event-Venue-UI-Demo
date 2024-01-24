@@ -1,12 +1,12 @@
-# Le Prestige Hall UI.
+# Le Prestige Hall UI Demo.
 
-This is the UI (User Interface) for [Le Prestige Hall, Inc](https://www.leprestigehall.net).
+This is a demo version UI (User Interface) for [Le Prestige Hall, Inc](https://www.leprestigehall.net).
 
 
 # Pre-requisite
 
 * A standalone configured Keycloak app version 20.0.3 or higher.
-* An instance of the API runing. For more info, visit https://github.com/Zinphraek/Event-Venue-API-
+* An instance of the API runing. For more info, visit https://github.com/Zinphraek/Event-Venue-API-Demo
 
 ## Quick start.
 
@@ -101,5 +101,3 @@ A cloned version stripped of sensitive data of the backend repository can be fou
 
 
 
-### Video Demo.
-[Live Demo Recording](https://youtu.be/tLVCX4106_s)
