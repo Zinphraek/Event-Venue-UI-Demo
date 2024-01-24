@@ -11,8 +11,8 @@ This is a demo version UI (User Interface) for [Le Prestige Hall, Inc](https://w
 ## Quick start.
 
 * Lunch the keycloak instance on port 8080 and log in to the admin console; visit https://www.keycloak.org/getting-started for more information.
-* Create a new realm titled: `LePrestigeHall`
-* Create a UI client with id `le-prestige-hall-ui`
+* Create a new realm titled: `EventVenueDemo`
+* Create a UI client with id `event-venue-ui-demo`
 * In the web origin section enter `http://localhoast:3000`
 * On the advanced setting section, locate `Proof Key for Code Exchange Code` (PKCE) and set it to `S256`
 
@@ -20,14 +20,6 @@ This is a demo version UI (User Interface) for [Le Prestige Hall, Inc](https://w
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-
-### Notes:
-
-This repository is the UI for Le Prestige Hall and is still being refined.
-The application hasn't been deployed yet, but this section will be upadated once it live.
-
-A cloned version stripped of sensitive data of the backend repository can be found at https://github.com/Zinphraek/Event-Venue-API-
 
 
 ## UI Screenshots and Demo.
