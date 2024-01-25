@@ -1,6 +1,6 @@
 # Le Prestige Hall UI Demo.
 
-This is a demo version UI (User Interface) for [Le Prestige Hall, Inc](https://www.leprestigehall.net).
+The live demo can be accessed [here.](https://jolly-mushroom-07a20c60f.4.azurestaticapps.net)
 
 
 # Pre-requisite
