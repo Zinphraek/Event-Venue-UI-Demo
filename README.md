@@ -32,68 +32,72 @@ No tests have been implemented yet.
 
 
 #### Home page
-![Home_Page_](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/09a72d70-8976-497d-8fa4-54cd5e37ff56)
+![Home_Page_](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/f32752ef-f0f1-4e4d-9fb0-aea126314cee)
+
 
 ### 
-![Home_Page](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/d9ed400a-7ccf-454f-9501-62e9b968d5cd)
+![Home_Page](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/ddb72cff-8b32-45e1-9aaf-63c29c986f23)
+
 
 
 #### Services page.
-![Service_page](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/bcb1967f-c98f-42ec-90b7-98081ccd95ff)
+![Service_page](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/ddbada42-ade8-40ad-ad98-c2c24ee7a801)
+
 
 
 #### About us page
-![About_Page](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/fe1bac92-af27-40eb-9b6b-189b54c7ad31)
+![About_Page](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/c2f077ae-bf0c-4f0d-abb1-8d4336a29911)
+
 
 
 #### Contact us page
-![Contact_Us_page](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/68b2488a-9792-4ed8-8f47-c6f061a2ea73)
+![Contact_Us_page](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/d3ae8108-7422-4301-9d1c-3d068e2bdb14)
+
 
 
 #### Review Page
-![Review_Page](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/c5c5aeb7-b099-4767-93a0-fc3db912fced)
+![Review_Page](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/975f91ac-3676-47fc-b9ed-ea5a019b26c2)
+
 
 
 #### Event page
-![Event_Page](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/5402354d-6a4f-4c1b-9ab2-c601a2092189)
+![Event_Page](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/ef119992-5c38-4aee-8c42-ca502bc40b98)
+
 
 ### An Event
-![Event](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/73179912-f25c-4bb6-b4cd-0300480135a2)
+![Event](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/f90ba28a-0a04-462b-84b3-becd230a3755)
 
 
 #### Appointment Booking Page
-![Booking_Page_Appointment](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/a6e579a4-066b-4fe4-974d-39387c530bb6)
+![Booking_Page_Appointment](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/14794cbc-8f1b-4807-9ea3-69d731160cde)
+
 
 #### Reservation Booking Page
-![Booking_Page_Reservation](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/7ed33302-94be-44ed-ace5-44b76f0b09da)
+![Booking_Page_Reservation](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/d9e36e40-3a36-4b17-aaea-d111dd7bf702)
 
 
 #### Account - Profile Screen
-![Account_Page_Profile](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/92f54763-0582-4f2b-8eda-060036db96cb)
+![Account_Page_Profile](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/fadf66ab-c875-4b5e-964e-d37d29670abb)
 
 
 
 #### Account - Appointment Screen
-![Account_Page_Appointment](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/3196c481-9536-4bb9-bc23-4c85031a5c5b)
-
-####
-![Account_Page_Appointment](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/9e04f590-ef07-45c1-a233-0efa096564e5)
-
+![Account_Page_Appointment](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/6b6ffb27-4f42-4bd8-8e47-07acd143ee8c)
 
 #### Account - Reservation Screen
-![Account_Page_Reservation](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/14127c61-e6ae-409e-87fb-0bf7365e3a45)
+![Account_Page_Reservation](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/8bde7d2c-473c-46e2-ba7c-b9c96debc5a8)
 
 
 #### Account - Invoice Screen
-![Account_Page_Invoice](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/ae549943-1241-4b47-a62e-299b76ed00b5)
+![Account_Page_Invoice](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/1a6dd488-41f2-4464-b581-656b0f8d0ea0)
 
 
 #### A Protected page when user is unauthenticated.
-![Protected_page](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/88114f29-0220-4bfa-908f-7df870b2f017)
+![Protected_page](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/eb0bf16a-8c74-443b-86b3-308a1014b29a)
 
 
 #### Not Found page
-![NotFoundPage](https://github.com/Zinphraek/Event-Venue-UI/assets/89105588/192245ef-db7f-4cf5-81f7-27a3e60aaa2a)
+![NotFoundPage](https://github.com/Zinphraek/Event-Venue-UI-Demo/assets/89105588/fbbfe730-ece1-4f50-a43b-95ce56c4e3f9)
 
 
 
